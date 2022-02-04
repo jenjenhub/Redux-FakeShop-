@@ -1,4 +1,4 @@
-2022.02.04
+2022.02.04. 개인공부
 
 FakeShop - Redux Tutorial
 
